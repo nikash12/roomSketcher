@@ -1,0 +1,131 @@
+:root {
+    --size: 75px;
+    --path: 200px;
+    --box-radius: 10%;
+    --main-color: rgba(255, 128, 0, 0.8);
+    --main-border: 2px solid rgba(128, 128, 128, 0.4);
+    --main-gradient: conic-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
+
+.container {
+    perspective: 800px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #111;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Logo and Sign In/Log Out */
+.header {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100% - 20px);
+    z-index: 10;
+}
+
+.logo {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sign-in {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+/* Marquee effect styles */
+.marquee-container {
+    width: 100%;
+    height: 60px;
+    background-color: #111;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    position: absolute;
+    top: 100px; /* Adjusted top position to lift up */
+}
+
+.marquee-text {
+    color: white;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: nowrap;
+    position: absolute;
+    animation: marquee 8s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(100%); /* Start off-screen from the right */
+    }
+    100% {
+        transform: translateX(-100%); /* Move off-screen to the left */
+    }
+}
+
+.cube-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px; /* Added margin to give space for marquee and header */
+}
+
+.cube {
+    width: var(--path);
+    height: var(--path);
+    transform-style: preserve-3d;
+    animation: rotateCube 5s infinite linear;
+    margin: 0 10px; /* Add some space between cubes */
+}
+
+.face {
+    position: absolute;
+    width: var(--size);
+    height: var(--size);
+    background-color: var(--main-color);
+    background-image: var(--main-gradient);
+    border: var(--main-border);
+    border-radius: var(--box-radius);
+}
+
+.front {
+    transform: translateZ(calc(var(--size) / 2));
+}
+.back {
+    transform: rotateY(180deg) translateZ(calc(var(--size) / 2));
+}
+.left {
+    transform: rotateY(-90deg) translateZ(calc(var(--size) / 2));
+}
+.right {
+    transform: rotateY(90deg) translateZ(calc(var(--size) / 2));
+}
+.top {
+    transform: rotateX(90deg) translateZ(calc(var(--size) / 2));
+}
+.bottom {
+    transform: rotateX(-90deg) translateZ(calc(var(--size) / 2));
+}
+
+@keyframes rotateCube {
+    from {
+        transform: rotateY(0deg) rotateX(0deg);
+    }
+    to {
+        transform: rotateY(360deg) rotateX(360deg);
+    }
+}

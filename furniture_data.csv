@@ -1,0 +1,51 @@
+Furniture_ID,Furniture_Type,Material,Color,Dimensions (L_x_W_x_H),Style,Description
+1,Sofa,Fabric,Gray,80x35x30,Modern,Comfortable 3-seater sofa in light gray fabric.
+2,Coffee Table,Wood,Dark Brown,48x24x18,Contemporary,Stylish rectangular coffee table with a dark wood finish.
+3,Dining Table,Wood,Light Oak,72x36x30,Traditional,"Classic dining table made of light oak, seats 6."
+4,Chair,Fabric,Blue,24x24x36,Bohemian,Vibrant blue upholstered chair with a whimsical design.
+5,Bed,Wood,White,60x80x50,Minimalist,Queen-sized bed with a sleek white wooden frame.
+6,Bookshelf,Metal,Black,36x12x72,Industrial,Industrial-style bookshelf with metal frame and wooden shelves.
+7,Nightstand,Wood,Walnut,20x20x24,Rustic,Rustic nightstand with one drawer and an open shelf.
+8,Dresser,Wood,Gray,54x18x32,Scandinavian,Scandinavian-style dresser with simple lines and gray finish.
+9,Dining Table,Wood,Light Oak,37x75x78,Contemporary,Rustic charm with modern functionality.
+10,Chair,Fabric,Gray,72x37x79,Rustic,"Industrial-inspired, combining utility with style."
+11,Dining Table,Leather,Black,82x29x81,Traditional,Stylish and comfortable piece with modern design.
+12,Lamp,Metal,Gray,29x63x66,Traditional,"Elegant and functional, made with high-quality materials."
+13,Sofa,Glass,White,49x47x43,Rustic,Charming vintage piece with a unique finish.
+14,Nightstand,Leather,Gray,87x46x55,Scandinavian,Classic design with a contemporary twist.
+15,Wardrobe,Glass,Gray,29x57x77,Scandinavian,"Industrial-inspired, combining utility with style."
+16,Coffee Table,Wood,Beige,59x20x86,Modern,"Industrial-inspired, combining utility with style."
+17,Nightstand,Wood,Dark Brown,80x78x86,Scandinavian,Stylish and comfortable piece with modern design.
+18,Coffee Table,Metal,Black,85x53x86,Bohemian,"Industrial-inspired, combining utility with style."
+19,Sofa,Plastic,Walnut,73x46x84,Contemporary,"Bold and vibrant, a perfect statement piece."
+20,Chair,Plastic,Beige,70x76x69,Rustic,"Sleek, minimalistic design that fits any decor."
+21,Lamp,Glass,Gray,26x27x35,Traditional,Eclectic design with bold patterns and textures.
+22,Bed,Glass,Gray,46x58x27,Modern,"Bold and vibrant, a perfect statement piece."
+23,Bookshelf,Glass,Light Oak,79x35x46,Modern,Charming vintage piece with a unique finish.
+24,Lamp,Metal,Gray,44x83x24,Scandinavian,Stylish and comfortable piece with modern design.
+25,Dining Table,Glass,Gray,68x28x47,Traditional,"Sleek, minimalistic design that fits any decor."
+26,Nightstand,Metal,Blue,52x87x28,Contemporary,Classic design with a contemporary twist.
+27,Lamp,Leather,Walnut,86x25x51,Scandinavian,"Sleek, minimalistic design that fits any decor."
+28,Coffee Table,Leather,Gray,55x87x65,Modern,"Bold and vibrant, a perfect statement piece."
+29,Lamp,Fabric,Blue,38x54x79,Modern,Classic design with a contemporary twist.
+30,Lamp,Metal,Walnut,28x80x78,Scandinavian,Charming vintage piece with a unique finish.
+31,Dresser,Metal,Gray,88x66x20,Bohemian,"Bold and vibrant, a perfect statement piece."
+32,Wardrobe,Plastic,Beige,29x29x26,Bohemian,Charming vintage piece with a unique finish.
+33,Chair,Glass,Blue,36x79x37,Bohemian,"Elegant and functional, made with high-quality materials."
+34,Lamp,Plastic,Black,22x30x56,Eclectic,"Elegant and functional, made with high-quality materials."
+35,Wardrobe,Wood,Gray,86x37x29,Traditional,Stylish and comfortable piece with modern design.
+36,Dresser,Plastic,Dark Brown,20x35x53,Bohemian,"Elegant and functional, made with high-quality materials."
+37,Bed,Wood,Red,58x44x31,Scandinavian,"Sleek, minimalistic design that fits any decor."
+38,Sofa,Metal,Light Oak,78x82x28,Eclectic,Stylish and comfortable piece with modern design.
+39,Lamp,Plastic,Gray,33x34x31,Industrial,Stylish and comfortable piece with modern design.
+40,Wardrobe,Glass,Gray,43x67x64,Contemporary,"Bold and vibrant, a perfect statement piece."
+41,Sofa,Glass,Dark Brown,57x65x60,Rustic,"Perfect for any room, adds a touch of sophistication."
+42,Wardrobe,Metal,White,80x82x38,Industrial,Charming vintage piece with a unique finish.
+43,Bookshelf,Glass,Light Oak,80x79x45,Bohemian,"Sleek, minimalistic design that fits any decor."
+44,Bed,Metal,Light Oak,67x68x84,Industrial,Stylish and comfortable piece with modern design.
+45,Dining Table,Glass,White,77x21x65,Rustic,"Perfect for any room, adds a touch of sophistication."
+46,Dresser,Leather,White,41x60x84,Vintage,"Industrial-inspired, combining utility with style."
+47,Lamp,Fabric,Red,82x77x25,Modern,"Perfect for any room, adds a touch of sophistication."
+48,Wardrobe,Glass,Beige,21x83x34,Vintage,Charming vintage piece with a unique finish.
+49,Dining Table,Wood,Light Oak,46x31x24,Scandinavian,Stylish and comfortable piece with modern design.
+50,Bookshelf,Leather,Red,39x59x62,Contemporary,"Perfect for any room, adds a touch of sophistication."

@@ -1,0 +1,51 @@
+Room_ID,Length_ft,Width_ft,Height_ft,Style,Layout,Design_Description
+1,12,15,10,Modern,Open,"Modern living room with a sofa, coffee table, and TV unit."
+2,10,12,9,Traditional,Closed,Cozy traditional dining room with wooden table and chairs.
+3,14,16,11,Minimalist,Open,"Minimalist bedroom with a bed, nightstands, and a wardrobe."
+4,10,10,8,Industrial,Closed,Industrial kitchen with metal and wood finishes.
+5,16,20,12,Scandinavian,Open,Scandinavian-style living room with neutral colors and plants.
+6,12,18,10,Bohemian,Open,Bohemian-style office with vibrant colors and eclectic decor.
+7,15,15,9,Rustic,Closed,Rustic bedroom with wooden beams and cozy bedding.
+8,20,25,12,Contemporary,Open,Contemporary living area with sleek furniture and large windows.
+9,21,12,12,Bohemian,Open,"Warm, traditional layout with wooden elements and cozy lighting."
+10,16,13,9,Contemporary,Closed,Cozy room with classic furniture and vintage decor.
+11,13,14,9,Traditional,Closed,Modern open-space design with a large sofa and artistic decor.
+12,22,24,9,Traditional,Closed,Contemporary room with sleek finishes and modern lighting.
+13,23,21,12,Scandinavian,Open,Spacious room with modern furniture and bright colors.
+14,23,15,10,Rustic,Closed,Industrial-inspired space with exposed materials and rugged furniture.
+15,14,25,11,Contemporary,Closed,Rustic space with earthy tones and traditional furniture.
+16,25,19,10,Industrial,Open,Bohemian design with bold patterns and colorful accessories.
+17,13,16,11,Modern,Open,Scandinavian room with light wood finishes and natural elements.
+18,20,19,10,Modern,Closed,"Warm, traditional layout with wooden elements and cozy lighting."
+19,17,16,10,Minimalist,Open,Modern open-space design with a large sofa and artistic decor.
+20,11,18,11,Rustic,Open,Scandinavian room with light wood finishes and natural elements.
+21,17,18,10,Traditional,Closed,Scandinavian room with light wood finishes and natural elements.
+22,22,20,9,Rustic,Closed,Cozy room with classic furniture and vintage decor.
+23,13,10,11,Industrial,Closed,Modern open-space design with a large sofa and artistic decor.
+24,25,10,12,Traditional,Closed,Modern open-space design with a large sofa and artistic decor.
+25,16,12,8,Contemporary,Closed,Spacious room with modern furniture and bright colors.
+26,17,24,9,Traditional,Open,Rustic space with earthy tones and traditional furniture.
+27,11,16,8,Modern,Open,Rustic space with earthy tones and traditional furniture.
+28,12,15,10,Rustic,Open,Modern open-space design with a large sofa and artistic decor.
+29,23,15,12,Modern,Closed,"Warm, traditional layout with wooden elements and cozy lighting."
+30,13,13,8,Bohemian,Closed,Rustic space with earthy tones and traditional furniture.
+31,11,18,10,Industrial,Closed,Spacious room with modern furniture and bright colors.
+32,19,25,11,Traditional,Closed,Contemporary room with sleek finishes and modern lighting.
+33,14,11,9,Bohemian,Closed,Industrial-inspired space with exposed materials and rugged furniture.
+34,15,19,10,Rustic,Closed,Contemporary room with sleek finishes and modern lighting.
+35,14,21,8,Bohemian,Closed,Elegant space with minimalist design and natural light.
+36,10,24,11,Bohemian,Closed,"Warm, traditional layout with wooden elements and cozy lighting."
+37,19,24,11,Minimalist,Closed,Spacious room with modern furniture and bright colors.
+38,16,15,11,Scandinavian,Open,Rustic space with earthy tones and traditional furniture.
+39,24,23,10,Rustic,Closed,Industrial-inspired space with exposed materials and rugged furniture.
+40,13,23,8,Bohemian,Closed,Rustic space with earthy tones and traditional furniture.
+41,22,22,8,Industrial,Closed,Scandinavian room with light wood finishes and natural elements.
+42,10,18,8,Rustic,Open,Scandinavian room with light wood finishes and natural elements.
+43,14,12,8,Bohemian,Open,Bohemian design with bold patterns and colorful accessories.
+44,10,18,9,Traditional,Open,Cozy room with classic furniture and vintage decor.
+45,10,22,10,Scandinavian,Closed,Contemporary room with sleek finishes and modern lighting.
+46,22,12,11,Traditional,Closed,Contemporary room with sleek finishes and modern lighting.
+47,13,22,10,Bohemian,Open,Modern open-space design with a large sofa and artistic decor.
+48,20,16,11,Industrial,Closed,Rustic space with earthy tones and traditional furniture.
+49,11,16,9,Modern,Closed,Modern open-space design with a large sofa and artistic decor.
+50,18,20,9,Rustic,Closed,Spacious room with modern furniture and bright colors.
